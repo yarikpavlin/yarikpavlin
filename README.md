@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yarikpavlin
 - 👀 I’m interested in new Tech, Science, Space, Cars
-- 🌱 I’m currently learning HTML, CSS and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS and React.js, also want to learn React Native
 
 <!---
 yarikpavlin/yarikpavlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
